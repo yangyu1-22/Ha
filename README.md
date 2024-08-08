@@ -42,6 +42,6 @@ DATASET=data/glasses-noglasses
 Run this command to see how it operates on an image from the cat folder.
 [imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/row-7-column-4.jpg output.jpg]
 
-video link [ ]
+video link [https://youtu.be/nPOMfKQz0wo ]
 
 
